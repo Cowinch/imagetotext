@@ -1,0 +1,2 @@
+Made following this guide
+https://www.smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/
